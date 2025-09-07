@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wayneboone
+
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning the basics
 - 💞️ I’m looking to collaborate on ...
